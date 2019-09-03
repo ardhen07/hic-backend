@@ -1,0 +1,5 @@
+com\gosoftware\hic\controller\UserController.class
+com\gosoftware\hic\MianApplication.class
+com\gosoftware\hic\model\User.class
+com\gosoftware\hic\repo\UserRepository.class
+com\gosoftware\hic\dao\UserDao.class
